@@ -9,9 +9,15 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A major issue in the united arab emirates is that food waste costs the uae
+      about $3.5billion a year over 1000 tons of food is wasted (1,000,000 kg)
+
+
+      now this is a problem because people who get less pays  such as blue
+      collard workers which finish their jobs at odd times such as 3am  dont
+      have energy to cook so we plan to partner with supermarkets and buy
+      multiple stock of food near expiry for a significantly cheaper price (we
+      plan to get ready meals)
     actions: []
     media:
       url: /images/main-hero.svg
