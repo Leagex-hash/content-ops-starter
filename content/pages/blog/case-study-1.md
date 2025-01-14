@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: How many workers dont get enough food (malnutrition)
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
