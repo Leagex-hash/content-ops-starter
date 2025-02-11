@@ -20,7 +20,7 @@ sections:
       plan to get ready meals)
     actions: []
     media:
-      url: /images/avatar3.svg
+      url: /images/abstract-background.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
