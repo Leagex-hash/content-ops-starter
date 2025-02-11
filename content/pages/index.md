@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: >
       A major issue in the united arab emirates is that food waste costs the uae
-      about $3.5billion a year over 1000 tons of food is wasted (1,000,000 kg)
+      about $3.5billion a year over 3200 tons of food is wasted (3,200,000 kg)
 
 
       now this is a problem because people who get less pays  such as blue
