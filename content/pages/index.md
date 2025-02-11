@@ -261,7 +261,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: partner with us
       color: text-dark
       type: TitleBlock
     subtitle: ''
