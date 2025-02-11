@@ -1,5 +1,5 @@
 ---
-title: How many workers dont get enough food (malnutrition)
+title: 'Malnutrition Among Workers in the UAE: A Hidden Crisis'
 slug: case-study-1
 date: '2025-01-01'
 excerpt: >-
