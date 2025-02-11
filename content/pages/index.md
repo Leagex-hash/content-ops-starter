@@ -191,7 +191,6 @@ sections:
       perfectly good food from being wasted.
 
 
-      ![](https://via.placeholder.com/300)
 
 
       ### 2. Discounted Bulk Purchase
@@ -202,7 +201,6 @@ sections:
       when placed in our vending machines.
 
 
-      ![](https://via.placeholder.com/300)
 
 
       ### 3. Vending Machine Distribution
@@ -213,7 +211,6 @@ sections:
       are designed to be easily accessible for people from all walks of life.
 
 
-      ![](https://via.placeholder.com/300)
 
 
       ### 4. Affordable Access for All
@@ -223,6 +220,8 @@ sections:
       typical supermarkets and retailers, we make sure that everyone, especially
       people from low-income backgrounds, can access nutritious meals. Our goal
       is to keep prices affordable.
+
+
 
 
 
